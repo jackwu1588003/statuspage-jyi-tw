@@ -28,4 +28,4 @@ monitors:
     name: jyi.tw
     url: 'https://www.jyi.tw/'
     method: GET
-    expectStatus: 200  
+    expectStatus: 200   
