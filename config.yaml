@@ -29,27 +29,3 @@ monitors:
     url: 'https://www.jyi.tw/'
     method: GET
     expectStatus: 200  
-    
-  - id: www-jyi-tw
-    name: www.jyi.tw
-    url: 'https://www.jyi.tw/'
-    method: GET
-    expectStatus: 200
-    
-  - id: camunda-jyi-tw
-    name: camunda.jyi.tw
-    url: 'https://camunda.jyi.tw/'
-    method: GET
-    expectStatus: 200
-    
-  - id: java-jyi-tw
-    name: java.jyi.tw
-    url: 'https://java.jyi.tw/'
-    method: GET
-    expectStatus: 200
-    
-  - id: bookjournal-jyi-tw
-    name: bookjournal.jyi.tw
-    url: 'https://bookjournal.jyi.tw/'
-    method: GET
-    expectStatus: 200
